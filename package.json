@@ -1,0 +1,16 @@
+{
+  "name": "vioclaim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "eosjs": "^22.1.0",
+    "node-fetch": "^3.0.0",
+    "util": "^0.12.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
